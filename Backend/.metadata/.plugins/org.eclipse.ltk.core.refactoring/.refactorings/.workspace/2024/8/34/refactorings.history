@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-security-learn&apos; to &apos;BackEndForMiniProject&apos;" description="Rename resource &apos;spring-security-learn&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-security-learn" name="BackEndForMiniProject" stamp="1724240555318" updateReferences="true"/>
+</session>
