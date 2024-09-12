@@ -1,0 +1,9 @@
+.DisplayAlldetails {
+  /* background: #000; */
+}
+.DisplayAlldetails img {
+  height: 50px;
+}
+.DisplayAlldetails img:hover {
+  transform: scale(5);
+}
