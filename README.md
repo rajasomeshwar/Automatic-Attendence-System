@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 For any queries, reach out to: [rajasomeshwar143@gmail.com](mailto:rajasomeshwar143@gmail.com)
 
-for more read this : ppt 
+for more read this : Notes (https://github.com/rajasomeshwar/Automatic-Attendence-System/blob/main/moredetails.pdf)
