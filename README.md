@@ -78,5 +78,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
-For any queries, reach out to: [your-email@example.com](mailto:your-email@example.com)
+For any queries, reach out to: [rajasomeshwar143@gmail.com](mailto:rajasomeshwar143@gmail.com)
 
+for more read this : ppt 
