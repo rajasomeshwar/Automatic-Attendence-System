@@ -1,6 +1,4 @@
 # Automatic-Attendence-System
-# Automatic Attendance System
-
 ## 📌 Overview
 The **Automatic Attendance System** is a facial recognition-based attendance management system that automates student attendance tracking. It captures and processes real-time images to mark attendance efficiently.
 
